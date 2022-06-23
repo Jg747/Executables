@@ -1,0 +1,8 @@
+Come utilizzare
+- Doppio click sul file eseguibile per il proprio sistema operativo
+- Riga di comando
+	1. Aprire il terminale e recarsi nella cartella dove e' presente l'eseguibile
+	2. Digitare "pseudo -help" (Windows) o "pseudo -help" 
+	3. In caso su MacOS e Linux non funzioni l'eseguibile digitare "chmod 777 pseudo"
+
+Copyright © Gabriele Masotto [non ho aziende lmao]
