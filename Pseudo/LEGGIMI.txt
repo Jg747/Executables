@@ -5,4 +5,4 @@ Come utilizzare
 	2. Digitare "pseudo -help" (Windows) o "pseudo -help" 
 	3. In caso su MacOS e Linux non funzioni l'eseguibile digitare "chmod 777 pseudo"
 
-Copyright © Gabriele Masotto [non ho aziende lmao]
+Copyright © Jg_747
