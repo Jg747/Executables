@@ -4,4 +4,4 @@ Come utilizzare
   andare nella stessa cartella dove e' presente l'eseguibile e digitare 
   "chmod 777 <file>"
 
-Copyright © Gabriele Masotto [non ho aziende lmao]
+Copyright © Jg_747
