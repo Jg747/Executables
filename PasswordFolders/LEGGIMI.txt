@@ -4,4 +4,4 @@ Come utilizzare
 	1. Aprire il terminale e recarsi nella cartella dove e' presente l'eseguibile
 	2. Digitare "chmod 777 PasswordFolders"
 
-Copyright © Gabriele Masotto [non ho aziende lmao]
+Copyright © Jg_747
