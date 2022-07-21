@@ -1,7 +1,0 @@
-Come utilizzare
-- Doppio click sul file eseguibile per il proprio sistema operativo
-- In caso su MacOS e Linux non funzioni l'eseguibile aprire il terminale,
-  andare nella stessa cartella dove e' presente l'eseguibile e digitare 
-  "chmod 777 <file>"
-
-Copyright © Jg_747
