@@ -2,6 +2,6 @@ Come utilizzare
 - Doppio click sul file eseguibile per il proprio sistema operativo
 - In caso su MacOS e Linux non funzioni l'eseguibile
 	1. Aprire il terminale e recarsi nella cartella dove e' presente l'eseguibile
-	2. Digitare "chmod 777 PasswordFolders"
+	2. Digitare "chmod 777 PasswordFolder"
 
 Copyright © Jg_747
